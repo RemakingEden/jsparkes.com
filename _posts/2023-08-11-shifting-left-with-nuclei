@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shifting Left with Nuclei A Tester’s Experience
+title: Splitting Cypress E2E tests into their “Component” pieces
 ---
 
 ## TLDR
