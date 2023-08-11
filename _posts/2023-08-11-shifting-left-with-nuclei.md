@@ -3,6 +3,8 @@ layout: post
 title: "Shifting Left with Nuclei: A Tester’s Experience"
 ---
 
+Nuclei is a popular tool for DAST that allows you to scan web applications for vulnerabilities using predefined or custom templates. It is often used as a part of a DevSecOps pipeline to catch security issues before they reach production. But is it beneficial to shift left with Nuclei?
+
 ## TLDR
 
 *In this article I discuss trying to use a dynamic security testing tool called Nuclei early in the development lifecycle. Through this process I realise that not every tool and style of testing should be shifted left and often the drawbacks can overweigh the benefits.*
