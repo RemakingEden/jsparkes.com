@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Splitting Cypress E2E tests into its “Component” pieces
+title: Splitting Cypress E2E tests into their “Component” pieces
 ---
 
 This article was released as part of my work at [Answer Digital](https://answerdigital.com/) on a project with the [NHS](https://www.nhs.uk/), the [AI Centre](https://www.aicentre.co.uk/) and [NVIDIA](https://www.nvidia.com/). The frontend mentioned in this blog is available [here](https://github.com/AI4VBH/AIDE-front-end). Be aware this is an evolving project so the information below may go out of date.
