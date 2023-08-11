@@ -42,4 +42,4 @@ I think it’s very important to remember to shift left but also to shift right.
 
 When I get the chance to use Nuclei in a project, I will use it in the CI pipeline but only as a cronjob to scan production/pre-production and raise any issues it finds into my defect tracker. This way I can benefit from all the amazing community templates that are constantly being updated while not trying to force Nuclei to do something it’s not designed for.
 
-Finally, As for the kind of testing I tried to do in my POC. I believe this should be considered less as some strange alien automated security testing that only security experts can do, and more as an extension of the regular automated tests we write. Give it a go, you got this!
+Finally, as for the kind of testing I tried to do in my POC. I believe this should be considered less as some strange alien automated security testing that only security experts can do, and more as an extension of the regular automated tests we write. Give it a go, you got this!
