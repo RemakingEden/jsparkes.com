@@ -7,7 +7,7 @@ Have you ever wondered what makes a good tester in today’s fast-paced and coll
 
 ## TLDR
 
-Below I share my journey of becoming a tester and how I learned to question the stereotypes and gatekeeping of the testing industry. I also explain why I think anyone who is curious about how things work can be a tester, and why testing is not just about finding bugs, but about helping the whole team deliver quality software.
+Below I share my journey of how I learned to question the stereotypes and gatekeeping of the so called "testing mindset". I explain why I think anyone who is curious about how things work can be a tester, and why testing is not just about finding bugs, but about helping the whole team deliver quality software and this takes all kinds of people with all kinds of mindsets.
 
 ## "The Testers Mindset"
 
@@ -17,7 +17,7 @@ The above is a sentiment I have heard echoed in different ways through my testin
 
 ## It's so much more simple
 
-I believe that, if we are going to refer to a "testing mindset", we should keep it simple. I really think anyone could be a tester in some sense however to be a tester who will enjoy and stay in the position I think you need one thing. 
+I believe that, if we are going to refer to a "testing mindset", we should keep it simple. I really think anyone could be a tester in some sense however to be a tester who will enjoy and stay in the position I think you need one thing.
 
 An interest in how things work.
 
