@@ -20,7 +20,7 @@ A group that did this was the contributors at OWASP's Open Common Requirement En
 OpenCRE is a way of parsing and understanding lots of different security standards. Security is a complicated topic and often one with lots of loud opinions; this is where security standards bodies come in. In an ideal world, using a lot of expert opinions and research, they help users have a set of guidelines to help secure any software they are building. However, as can often happen with standards, we don't just have one.
 
 ![XKCD comic showing how standards proliferate when people think we should have one more true global standard](../images/posts/XKCD%20Standards.png)
-*XKCD comic (https://xkcd.com/)*
+*XKCD comic 927 (https://xkcd.com/927/)*
 
 This leads to this valuable information spread all over the web in different places.
 
@@ -28,15 +28,15 @@ OpenCRE aims to fix this by bringing the information together in "Common Require
 
 ## An Example
 
-This can be a little hard to get your head around (at least it was for me). So here is an example of how OpenCRE can be used. Scenario:
+To show how OpenCRE can be used. Here is a scenario:
 
-> I am involved in some new functionality being built for an application I am working on. I am concerned that the new functionality could create an opening for a cross-site scripting (XSS) attack. I want to use the collective knowledge of all standards bodies, but I don't know where to start.
+> You are involved in the development of of new functionality for an application. You are concerned that the new functionality could create an opening for a cross-site scripting (XSS) attack. You want to use the collective knowledge of all security standards bodies online, but I don't know where to start.
 
 In this situation, I can navigate to https://opencre.org and use the search bar to search for "XSS".
 
 ![OpenCRE with a search of "XSS"](../images/posts/OpenCRE%20XSS%20Search.png)
 
-[Here](https://www.opencre.org/search/xss) we can see, on the left, some CRE's. These are common requirements that multiple standards agree with. e.g., many standards bodies have agreed that you should "Escape output against XSS". If I click on that CRE, I get these [results](https://www.opencre.org/cre/366-835).
+[On the left](https://www.opencre.org/search/xss) we can see some CRE's. These are common requirements that multiple standards agree with. e.g., many standards bodies have agreed that you should "Escape output against XSS". If I click on that CRE, I get these [results](https://www.opencre.org/cre/366-835).
 
 ![OpenCRE 366-835 around XSS](../images/posts/OpenCRE%20366-835.png)
 
