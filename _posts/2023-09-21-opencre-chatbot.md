@@ -11,7 +11,7 @@ In this post, we delve into the world of the OpenCRE Chatbot, your trusty compan
 
 ## Introduction
 
-LLM's continue to be the hot topic of the time, with arguments about how they will change the world and how they are useless and may as well be thrown in the bin. Underlying this hyperbole is a subset of people who have a good use for them and are aware of their limitations and what they are useful for.
+LLM's continue to be the hot topic of the time, with arguments flying around about how they will change the world and how they are useless and may as well be thrown in the bin. Underlying this hyperbole is a subset of people who have a good use for them and are aware of their limitations and what they are useful for.
 
 A group that did this was the contributors at OWASP's Open Common Requirement Enumeration (OpenCRE), and thus the OpenCRE Chatbot was born. This post will look at the OpenCRE chatbot from the perspective of a software tester and talk about how we can utilise it to help us improve security within the Software Development Lifecycle (SDLC).
 
@@ -50,7 +50,7 @@ The chatbot is built on PaLM, a large language model (LLM) from Google. It has t
 
 ![OpenCRE Chatbot Homepage](../images/posts/OpenCRE%20Chatbot%20Homepage.png)
 
-In my experience, the chatbot is a simple way to parse the mountains of information that is encapsulated within OpenCRE. It felt much more intuitive when you didn't know exactly what you were looking for. It allows you to explain your problem in plain English, and the chatbot will try to understand the question.
+In my experience, the chatbot is a simple way to parse the mountains of information encapsulated within OpenCRE. It felt much more intuitive when you didn't know exactly what you were looking for. It allows you to explain your problem in plain English, and the chatbot will try to understand the question.
 
 For example, if I were discussing with the development team a feature that would take user input and display it on the screen but I didn't know the term "XSS" like in the scenario above, I could use the below prompt to understand what I should be looking out for.
 
@@ -97,21 +97,23 @@ Due to its outgoing, appeasing, and simplifying nature, ChatGPT:
 
 ## Conclusion
 
-I believe I will continue using both the OpenCRE chatbot and ChatGPT for distinct reasons.
+I will continue using both the OpenCRE chatbot and ChatGPT for distinct reasons.
 
-If I am generally trying to learn and understand a subject without critical application, I will continue to use ChatGPT. The ability to question and get broken-down answers in consumable chunks is absolutely invaluable.
+If I am generally trying to learn and understand a subject without critical application, I will continue to use ChatGPT. The ability to question and receive simple, broken-down answers is absolutely invaluable.
 
-If I am in a situation where it is critical that I get a subject correct and need the backing of standards bodies to get my point across to the team, I will use the OpenCRE chatbot.
+If I am in a situation where it is critical to get a subject correct and need the backing of standards bodies to get my point across to the team, I will use the OpenCRE chatbot.
 
 ## A tester's perspective
 
-From the perspective of my day-to-day work, I can think of many reasons to use both.
+From the perspective of the day-to-day work of a software tester, I can think of many examples of how both chatbots can be utilised.
 
-While writing bug reports, I will use the OpenCRE chatbot to obtain documents to attach to allow the person working on them to understand and have a source of truth, but I may also use ChatGPT to try to break down the security issue in simple terms before the developer looks at the more complex document.
+While writing bug reports, a tester could use the OpenCRE chatbot to obtain standards documents to attach. This allows the person working on the ticket to have a source of truth for the issue. On the flip side a tester may use ChatGPT to try to break down the security issue in simple terms and add this to the description of the ticket so the reader can understand the issue before looking at the more complex document.
 
-In sprint planning or architecture sessions, I will use OpenCRE to query as I go. I will also use it to add standards to tickets so the team can understand them before working on the story. This is a case where I would probably not use ChatGPT, as it may just feed the noise of opinions that is often present in planning sessions.
+In sprint planning or an architecture session, a tester could use OpenCRE to query as they go. They can use it to add standards to stories so the team can understand them before starting work. This is a case where a tester may not want to use ChatGPT, as it may just feed the noise of opinions that is often present in planning sessions.
 
-Finally, I will use both ChatGPT and the OpenCRE Chatbot to help me run exploratory security testing. In my down time, I like to use a development environment to run mini penetration tests, and the two tools will be really useful in organising thoughts and gaining knowledge as I test.
+Finally, a tester could use both ChatGPT and the OpenCRE Chatbot to help run exploratory security testing. In down time, they could use development environments and the knowledge provided to run mini penetration tests. The two tools could be really useful in organising thoughts and gaining knowledge as they test.
+
+These are just a few examples in which a tester could utilise this novel technology to improve the AppSec posture at their work. I'm sure there are many more.
 
 But don't just take my word for it; go ahead and give it a try. Let me know your thoughts on the points discussed above!
 
