@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Testing the "Hacky Path"
+title: "Testing the 'Hacky Path'"
 ---
 
 ![A person walking across a path made of the green text from The Matrix into a greener brighter world | Bing Image Creator](../images/hacky-path.jpg)
