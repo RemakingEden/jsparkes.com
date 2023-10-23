@@ -3,9 +3,9 @@ layout: post
 title: "Testing the 'Hacky Path'"
 ---
 
-![A person walking across a path made of the green text from The Matrix into a greener brighter world | Bing Image Creator](../images/hacky-path.jpg)
-
 Have you ever wondered how hackers find and exploit vulnerabilities in your application? How can you go beyond the conventional happy path and unhappy path testing to uncover hidden flaws in your application?
+
+![A person walking across a path made of the green text from The Matrix into a greener brighter world. Created with Bing Image Creator](../images/hacky-path.jpg)
 
 ## TLDR
 
@@ -23,7 +23,7 @@ What about the unhappy path? This is the path less trodden, the tests that assum
 
 Throughout my seven years of testing experience, I've been a strong advocate for both happy path and unhappy path testing. These approaches have effectively addressed most of my testing needs. However, I've always had a hunch that there's another layer of testing waiting to be explored, a kind of testing that often prompts people to ask, 'Why on earth would anyone do that?' This kind of testing only gets more obvious as you shift left and test at a component level with small changes. The familiar happy path and unhappy path are still crucial, but it gets more and more tempting to try things out that no user would ever do. No regular user at least...
 
-![A devil sat at a laptop in the stereotypical hacker hoodie with the text "I'm no regular user" at the bottom | Bing Image Creator | ImgFlip](../images/im-no-regular-user.jpg)
+![A devil sat at a laptop in the stereotypical hacker hoodie with the text "I'm no regular user" at the bottom. Created with Bing Image Creator and ImgFlip](../images/im-no-regular-user.jpg)
 
 Introducing Hacky Path Testing. This approach delves into all those quirky, unconventional test scenarios that crossed your mind during those intense API contract discussions with your team. It's about letting your creativity run wild, considering all the nuanced ways in which data and code can be manipulated. These are the test cases that you may have hesitated to bring up, fearing your team might dismiss them as frivolous. However, they serve a unique purpose. These tests aren't designed for the average user; they're designed to challenge your application as if it were under attack by a malicious user.
 
