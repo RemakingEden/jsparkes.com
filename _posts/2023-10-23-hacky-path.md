@@ -5,7 +5,6 @@ title: "Testing the 'Hacky Path'"
 
 ![A person walking across a path made of the green text from The Matrix into a greener brighter world | Bing Image Creator](../images/hacky-path.jpg)
 
-
 Have you ever wondered how hackers find and exploit vulnerabilities in your application? How can you go beyond the conventional happy path and unhappy path testing to uncover hidden flaws in your application?
 
 ## TLDR
