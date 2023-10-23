@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Documenting my journey of learning Python, setting up a homelab and moving into the technology field.
+Documenting my journey into IT. Mainly testing and Appsec focused.
 
 ### Contact me
 
