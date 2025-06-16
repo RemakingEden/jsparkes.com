@@ -3,6 +3,8 @@ layout: post
 title: "Row-Level Recklessness: Testing Supabase Security"
 ---
 
+I’ve tested a dozen Supabase apps in the past six months. Most were built fast. Some were built well. Few were built securely.
+
 ## TLDR
 
 - Supabase is an open-source Firebase alternative built on Postgres with a RESTful API layer.
