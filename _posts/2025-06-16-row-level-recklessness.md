@@ -38,7 +38,7 @@ Supabase provides a solid authentication base. Email/password authentication wor
 
 This does not mean it is simple. As always, there is enough rope for a developer to hang themselves with in the config. Everything from JWT signing keys to rate limits are configurable in the UI. It is worth creating a free account on Supabase and going through these options to understand what a developer could have changed and may be vulnerable.
 
-![Authentication Dashboard Screenshot](../images/posts/row-level-recklessness/authntication.png)
+![Authentication Dashboard Screenshot](../images/posts/row-level-recklessness/authentication.png)
 
 ![Rate Limits Screenshot](../images/posts/row-level-recklessness/rate-limits.png)
 
